@@ -1,0 +1,1 @@
+este programa es una base de datos en la cual almacenas los datos de los usuaros de forma local y los puedes buscar para saber si existen o no
